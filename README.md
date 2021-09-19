@@ -25,9 +25,7 @@ pip install scikit-learn
 * Tensorflow
 
 # Author 
-* Sayam Kumar
-
-My Linkedin Prodile :- [Sayam Kumar](https://www.linkedin.com/in/sayam-kumar/)
+* [Sayam Kumar](https://www.linkedin.com/in/sayam-kumar/)
 
 # 🙏Acknowledgments
 * Special Thanks to [LGM](https://www.linkedin.com/company/letsgrowmore/) And [Mr. Aman Kesarwani](https://www.linkedin.com/in/~amankesarwani/) for this wonderful internship program and for arousing inspiration to do better.
