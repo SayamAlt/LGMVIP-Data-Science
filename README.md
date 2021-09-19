@@ -1,5 +1,5 @@
 # LGMVIP-DataScience
-This repo consists of some of the Tasks of LGMVIP, containing various supervised and unsupervised machine learning techniques to solve real-life problems in a systematic way.
+This repo consists of some of the Tasks of LGMVIP, containing various supervised and unsupervised machine learning techniques to solve real-life problems in a synchronized and systematic way.
 
 # Direct Link
 * [Iris Flowers Classification](https://github.com/SayamAlt/LGMVIP-Data-Science/blob/main/Iris%20Flowers%20Classification%20using%20ML.ipynb)
