@@ -30,7 +30,7 @@ pip install scikit-learn
 My Linkedin Prodile :- [Sayam Kumar](https://www.linkedin.com/in/sayam-kumar/)
 
 # 🙏Acknowledgments
-* Special Thanks to [LGM](https://www.linkedin.com/company/letsgrowmore/) And [Mr. Aman Kesarwani](https://www.linkedin.com/in/~amankesarwani/) for this Wonderful Internship Program and Inspiration to do more.
+* Special Thanks to [LGM](https://www.linkedin.com/company/letsgrowmore/) And [Mr. Aman Kesarwani](https://www.linkedin.com/in/~amankesarwani/) for this wonderful internship program and for arousing inspiration to do better.
 
 # 💡IDE 
 ```
